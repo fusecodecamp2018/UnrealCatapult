@@ -1,4 +1,4 @@
-This zip file contains an example working project with a sphere object that the character can pickup and drop.
+This zip file contains an example working project with a sphere object that the character can pickup and drop.  Use left mouse button to pickup and drop objects.
 
 How to get here from the previous .zip
 1. Add a sphere object to the world
