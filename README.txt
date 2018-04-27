@@ -1,4 +1,4 @@
-This zip file contains an example project with a catapult that you can load.
+This zip file contains an example project with a catapult that you can load.  Press e to load catapult.
 
 How to get here from the previous .zip
 1. Create a catapult blueprint based off the actor parent
